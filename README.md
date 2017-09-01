@@ -21,3 +21,4 @@
 * Home page route (http://localhost:8080)
 * About page route (http://localhost:8080/about)
 * Apply the routes to our application
+* Apply the dynamic routes
