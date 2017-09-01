@@ -16,7 +16,7 @@
 * Start SERVER
 
 # Bringing in Express Router
-* Create our routes here
+* Create our routes
 * Get an instance of router
 * Home page route (http://localhost:8080)
 * About page route (http://localhost:8080/about)
